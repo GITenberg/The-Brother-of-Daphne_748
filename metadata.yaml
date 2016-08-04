@@ -1,0 +1,30 @@
+_repo: The-Brother-of-Daphne_748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yates, Dornford
+    alias: Mercer, Cecil William
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '384'
+    url: http://www.gutenberg.org/2009/agents/384
+    wikipedia: http://en.wikipedia.org/wiki/Dornford_Yates
+description: It was a bazaar fete thing. Daphne and several others, euphemistically
+  styled workers, had conspired and agreed together to obtain money by false pretences
+  for and on behalf of a certain mission, to wit the Banana. I prefer to put it that
+  way. There IS a certain smack about the wording of an indictment. Almost a relish...
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: The Brother of Daphne
+url: http://www.gutenberg.org/ebooks/748
